@@ -4,7 +4,6 @@
 <img align ="right" alt="coding" width="400" src ="https://www.onespottechnology.com/images/about-images.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbhatta1028&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbhatta1028" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://bishalbhatta.vercel.app/](https://bishalbhatta.vercel.app/)
 
 - 📫 How to reach me **bishalbhatta1028@gmail.com**
 
