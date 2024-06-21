@@ -1,5 +1,5 @@
 ![logo](https://github.com/bishalbhatta1028/bishalbhatta1028/blob/main/banner.png?raw=true)
-<h1 align="center">Hello,  I'm Bishal Bhatta</h1>
+<h1 align="center">Hi,  I'm Bishal Bhatta</h1>
 <h3 align="center">Passionate Web Developer.</h3>
 <img align ="right" alt="coding" width="400" src ="https://www.onespottechnology.com/images/about-images.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbhatta1028&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbhatta1028" /> </p>
